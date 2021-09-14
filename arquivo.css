@@ -1,0 +1,42 @@
+body{
+    background-color:darkcyan;
+    
+}
+.title{
+    font: 50px italic;
+    background-color: whitesmoke;
+    text-align: center;
+    width: 200pt;
+    margin-top: 20px;
+
+
+}
+.conteiner{
+    font: 25px Arial black;
+    text-shadow: 1px 1px 1px white;
+    width: 800pt;
+    margin-top: -300px;
+    text-align: left;
+    background-color: whitesmoke;
+    border-radius: 2%;
+    
+}
+.foto{
+    margin: 100px;
+    width: 400px;
+    height: 400px;
+    margin-left: -1730px;
+    border-radius: 50%;
+    border-color: black;
+    border-style:double;
+
+}
+.resultado{
+    font: 40px italic;
+}
+.input{
+    font: 40px italic;
+}
+.texto{
+    font: 20px italic;
+}
